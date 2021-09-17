@@ -7,7 +7,7 @@
 
 
 #
-[![Deploy-heroku](https://img.shields.io/badge/Deploy%20To%20Heroku-inactive?style=for-the-badge&logo=heroku)](https://heroku.com/deploy?template=https://github.com/SUBHxTREM/TGxTELEGRAPH/tree/master)
+<!-- [![Deploy-heroku](https://img.shields.io/badge/Deploy%20To%20Heroku-inactive?style=for-the-badge&logo=heroku)](https://heroku.com/deploy?template=https://github.com/SUBHxTREM/TGxTELEGRAPH/tree/master)-->
 
 [![Deploy- heroku 2](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SUBHxTREM/TGxTELEGRAPH)
 
