@@ -1,7 +1,8 @@
 <font size="7"color="grey"> 
 TGxTELEGRAPH
-> A simplest telegram to telegra.ph image uploader bot
 </font>
+
+> A simplest telegram to telegra.ph image uploader bot
 
 [![Size](https://img.shields.io/github/repo-size/SUBHxTREM/TGxTELEGRAPH?style=flat-square&color=red)](https://github.com/SUBHxTREM/TGxTELEGRAPH/) ![Owner](https://img.shields.io/badge/-OWNER%20--SUBHxTREM-red)
 ## installation (easy way)
