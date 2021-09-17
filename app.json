@@ -2,7 +2,7 @@
   "name": "xTELEGRAPH",
   "description": "A bot to upload telegram images to telegraph",
   "repository": "https://github.com/SUBHxTREM/xTELEGRAPH",
-  "logo": "",
+  "logo": "https://telegra.ph/file/8eb8d2303c69a6036a19f.jpg",
   "keywords": ["telegram", "telegraph", "imageuploader","telegram bot"],
   "env": {
      "BOT_TOKEN": {
