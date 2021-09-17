@@ -9,6 +9,8 @@
 #
 [![Deploy-heroku](https://img.shields.io/badge/Deploy%20To%20Heroku-inactive?style=for-the-badge&logo=heroku)](https://heroku.com/deploy?template=https://github.com/SUBHxTREM/TGxTELEGRAPH/tree/master)
 
+[![Deploy- heroku 2](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SUBHxTREM/TGxTELEGRAPH)
+
 [![Deploy-Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FSUBHxTREM%2FTGxTELEGRAPH%2Ftree%2Fmain&plugins=redis&envs=SESSION%2CAPI_ID%2CAPI_HASH&optionalEnvs=API_ID%2CAPI_HASH&SESSIONDesc=Your+telethon+session+string.&API_IDDesc=api_id%2C+from+my.telegram.org&API_HASHDesc=api_hash%2C+from+my.telegram.org)
 
 Libraries used: => Pyrogram => Telegraph
