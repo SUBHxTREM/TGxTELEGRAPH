@@ -1,6 +1,4 @@
-<font size="7"color="grey"> 
 TGxTELEGRAPH
-</font>
 
 > A simplest telegram to telegra.ph image uploader bot
 
