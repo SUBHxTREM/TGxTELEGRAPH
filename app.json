@@ -1,7 +1,7 @@
 {
   "name": "TGxTELEGRAPH",
   "description": "A bot to upload telegram images to telegraph",
-  "repository": "https://github.com/SUBHxTREM/TGxTELEGRAPH",
+  "repository": "https://github.com/SUBHxTREM/xTELEGRAPH",
   "logo": "",
   "keywords": ["telegram", "telegraph", "imageuploader","telegram bot"],
   "env": {
