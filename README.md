@@ -2,7 +2,7 @@
 
 A simplest telegram to telegra.ph image uploader bot
 
-[![Size](https://img.shields.io/github/repo-size/SUBHxTREM/TGxTELEGRAPH?style=plastic&color=red)](https://github.com/SUBHxTREM/TGxTELEGRAPH/) ![Owner](https://img.shields.io/badge&style=plastic/-OWNER%20--SUBHxTREM-red)
+[![Size](https://img.shields.io/github/repo-size/SUBHxTREM/TGxTELEGRAPH?style=plastic&color=red)](https://github.com/SUBHxTREM/TGxTELEGRAPH/) ![Owner](https://img.shields.io/badge/-OWNER%20--SUBHxTREM-red)
 ## installation (easy way)
 
 
